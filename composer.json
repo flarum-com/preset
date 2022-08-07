@@ -1,0 +1,7 @@
+{
+    "name": "extiverse/flarum-preset",
+    "description": "Presets for scenarios.",
+    "keywords": [],
+    "license": "MIT",
+    "require": {}
+}
