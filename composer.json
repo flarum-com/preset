@@ -1,7 +1,17 @@
 {
     "name": "flarum-com/preset",
-    "description": "Presets for scenarios.",
-    "keywords": [],
+    "description": "Create a transparent, open and welcoming web3 community as a focus point for all your web3 project efforts.",
+    "keywords": [
+        "web3 community",
+        "file sharing community",
+        "nft community",
+        "flarum",
+        "flarum-bundle",
+        "extiverse"
+    ],
     "license": "MIT",
-    "require": {}
+    "require": {
+        "flarum/core": "^v1.5.0",
+        "fof/upload": "*"
+    }
 }
