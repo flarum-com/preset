@@ -1,7 +1,17 @@
 {
     "name": "extiverse/flarum-preset",
-    "description": "Presets for scenarios.",
-    "keywords": [],
+    "description": "Build a support, ticketing system with Flarum",
+    "keywords": [
+        "ticketing",
+        "support",
+        "helpdesk",
+        "flarum",
+        "flarum-bundle",
+        "extiverse"
+    ],
     "license": "MIT",
-    "require": {}
+    "require": {
+        "flarum/core": "^v1.5.0",
+        "v17development/flarum-support": "*"
+    }
 }
