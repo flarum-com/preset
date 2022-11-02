@@ -1,7 +1,19 @@
 {
     "name": "extiverse/flarum-preset",
-    "description": "Presets for scenarios.",
-    "keywords": [],
+    "description": "Build a private, paid access membership community with Flarum",
+    "keywords": [
+        "influencer community",
+        "private membership community",
+        "paid membership community",
+        "member portal",
+        "flarum",
+        "flarum-bundle",
+        "extiverse"
+    ],
     "license": "MIT",
-    "require": {}
+    "require": {
+        "flarum/core": "^v1.5.0",
+        "blomstra/payments": "*",
+        "sycho/flarum-private-facade": "*"
+    }
 }
