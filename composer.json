@@ -11,7 +11,7 @@
     ],
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.5.0",
+        "flarum/core": "^v1.6.2",
         "v17development/flarum-support": "*"
     }
 }
