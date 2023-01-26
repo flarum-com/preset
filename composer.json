@@ -11,6 +11,7 @@
     ],
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.6.3"
+        "flarum/core": "^v1.6.3",
+        "fof/upload": "*"
     }
 }
